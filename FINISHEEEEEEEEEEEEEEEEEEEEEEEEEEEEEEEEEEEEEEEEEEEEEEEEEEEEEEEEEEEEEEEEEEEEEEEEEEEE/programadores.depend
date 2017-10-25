@@ -1,0 +1,284 @@
+# depslib dependency file v1.0
+1505736091 source:c:\users\alumno\desktop\programadores\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+
+1505748144 source:c:\users\alumno\desktop\nueva carpeta\programadores\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+
+1505784100 source:c:\users\teddy\desktop\programadores\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+
+1507055092 source:g:\revisar!!!!!!!!!!!!!!!!!!\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+
+1507051801 source:g:\revisar!!!!!!!!!!!!!!!!!!\funciones.c
+
+1507056685 source:c:\users\teddy\desktop\revisar!!!!!!!!!!!!!!!!!!\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"funciones.h"
+
+1507056685 c:\users\teddy\desktop\revisar!!!!!!!!!!!!!!!!!!\funciones.h
+
+1507056698 source:c:\users\teddy\desktop\revisar!!!!!!!!!!!!!!!!!!\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+
+1507064587 source:c:\users\teddy\desktop\parcial laboratorio abm\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"funciones.h"
+
+1507056685 c:\users\teddy\desktop\parcial laboratorio abm\funciones.h
+
+1507064587 source:c:\users\teddy\desktop\parcial laboratorio abm\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"funciones.h"
+
+1507064678 source:g:\este si !\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"funciones.h"
+
+1507086648 g:\este si !\funciones.h
+
+1507064587 source:g:\este si !\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"funciones.h"
+
+1507128500 source:c:\users\alumno\desktop\1a_pp_vilar-hernan\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"funciones.h"
+
+1507119989 c:\users\alumno\desktop\1a_pp_vilar-hernan\funciones.h
+
+1507127282 source:c:\users\alumno\desktop\1a_pp_vilar-hernan\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"funciones.h"
+
+1507168712 source:g:\1a_pp_vilar-hernan\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"funciones.h"
+
+1507165993 g:\1a_pp_vilar-hernan\funciones.h
+
+1507169595 source:g:\1a_pp_vilar-hernan\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"funciones.h"
+
+1507244711 source:c:\users\teddy\desktop\esto\1a_pp_vilar-hernan\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"funciones.h"
+
+1507221542 c:\users\teddy\desktop\esto\1a_pp_vilar-hernan\funciones.h
+
+1507244009 source:c:\users\teddy\desktop\esto\1a_pp_vilar-hernan\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"funciones.h"
+
+1507488269 source:c:\users\teddy\desktop\copia segura !!!!!!\copia segura!!!\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"funciones.h"
+
+1507221542 c:\users\teddy\desktop\copia segura !!!!!!\copia segura!!!\funciones.h
+
+1507488312 source:c:\users\teddy\desktop\copia segura !!!!!!\copia segura!!!\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"funciones.h"
+
+1507514897 source:c:\users\teddy\desktop\nombreeeeeeess z333\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"funciones.h"
+
+1507221542 c:\users\teddy\desktop\nombreeeeeeess z333\funciones.h
+
+1507514586 source:c:\users\teddy\desktop\nombreeeeeeess z333\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"funciones.h"
+
+1508177263 source:c:\users\teddy\desktop\funcionaaaaaaaaaaaaaaaaaaa\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"funciones.h"
+
+1507221542 c:\users\teddy\desktop\funcionaaaaaaaaaaaaaaaaaaa\funciones.h
+
+1508088303 source:c:\users\teddy\desktop\funcionaaaaaaaaaaaaaaaaaaa\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"funciones.h"
+
+1508386012 source:c:\users\teddy\desktop\funcionaaaaaaaaaaaaaaaaaaaaaa\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"funciones.h"
+
+1507221542 c:\users\teddy\desktop\funcionaaaaaaaaaaaaaaaaaaaaaa\funciones.h
+
+1508385937 source:c:\users\teddy\desktop\funcionaaaaaaaaaaaaaaaaaaaaaa\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"funciones.h"
+
+1508386012 source:c:\users\teddy\desktop\parcial terminadooooooooooo\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"funciones.h"
+
+1507221542 c:\users\teddy\desktop\parcial terminadooooooooooo\funciones.h
+
+1508453427 source:c:\users\teddy\desktop\parcial terminadooooooooooo\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"funciones.h"
+
+1508557741 source:c:\users\teddy\desktop\revisarrrrrrrrrrrrrr\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"funciones.h"
+
+1507221542 c:\users\teddy\desktop\revisarrrrrrrrrrrrrr\funciones.h
+
+1508614864 source:c:\users\teddy\desktop\revisarrrrrrrrrrrrrr\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"funciones.h"
+
+1508686978 source:c:\users\teddy\desktop\este funciona correctamente\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"funciones.h"
+
+1507221542 c:\users\teddy\desktop\este funciona correctamente\funciones.h
+
+1508557741 source:c:\users\teddy\desktop\este funciona correctamente\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"funciones.h"
+
+1508871602 source:c:\users\teddy\desktop\a entregar yaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"funciones.h"
+	<ctype.h>
+
+1508816490 c:\users\teddy\desktop\a entregar yaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa\funciones.h
+
+1508816773 source:c:\users\teddy\desktop\a entregar yaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"funciones.h"
+
+1508895417 source:c:\users\teddy\desktop\yesssssssssssssssssssssssssssssssssssssssssssssss\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"funciones.h"
+	<ctype.h>
+
+1508895163 c:\users\teddy\desktop\yesssssssssssssssssssssssssssssssssssssssssssssss\funciones.h
+
+1508895175 source:c:\users\teddy\desktop\yesssssssssssssssssssssssssssssssssssssssssssssss\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"funciones.h"
+
+1508900699 source:c:\users\teddy\desktop\finisheeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"funciones.h"
+	<ctype.h>
+
+1508895163 c:\users\teddy\desktop\finisheeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee\funciones.h
+
+1508895175 source:c:\users\teddy\desktop\finisheeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"funciones.h"
+
