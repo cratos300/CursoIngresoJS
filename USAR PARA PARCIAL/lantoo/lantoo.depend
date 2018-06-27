@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1525658436 source:c:\users\teddy\desktop\lantoo\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,193 @@
+# depslib dependency file v1.0
+1529360282 source:c:\users\alumno\desktop\nueva carpeta\modeloparcial\arraylist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+
+1496883878 c:\users\alumno\desktop\nueva carpeta\modeloparcial\arraylist.h
+
+1529363803 source:c:\users\alumno\desktop\nueva carpeta\modeloparcial\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+	"funciones.h"
+
+1529361074 c:\users\alumno\desktop\nueva carpeta\modeloparcial\funciones.h
+
+1529363944 source:c:\users\alumno\desktop\nueva carpeta\modeloparcial\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+	"ArrayList.h"
+
+1529360282 source:e:\modeloparcialhacer\modeloparcial\arraylist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+
+1496883878 e:\modeloparcialhacer\modeloparcial\arraylist.h
+
+1529447589 source:e:\modeloparcialhacer\modeloparcial\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+	"funciones.h"
+
+1529447583 e:\modeloparcialhacer\modeloparcial\funciones.h
+
+1529447473 source:e:\modeloparcialhacer\modeloparcial\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+	"ArrayList.h"
+
+1529360282 source:c:\users\alumno\desktop\modeloparcialhacer\modeloparcial\arraylist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+
+1496883878 c:\users\alumno\desktop\modeloparcialhacer\modeloparcial\arraylist.h
+
+1529447589 source:c:\users\alumno\desktop\modeloparcialhacer\modeloparcial\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+	"funciones.h"
+
+1529447583 c:\users\alumno\desktop\modeloparcialhacer\modeloparcial\funciones.h
+
+1529450280 source:c:\users\alumno\desktop\modeloparcialhacer\modeloparcial\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+	"ArrayList.h"
+
+1529360282 source:c:\users\teddy\desktop\modelo parciallll\modeloparcialhacerrrr\modeloparcial\arraylist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+
+1496883878 c:\users\teddy\desktop\modelo parciallll\modeloparcialhacerrrr\modeloparcial\arraylist.h
+
+1529520773 source:c:\users\teddy\desktop\modelo parciallll\modeloparcialhacerrrr\modeloparcial\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+	"ArrayList.h"
+
+1529454968 c:\users\teddy\desktop\modelo parciallll\modeloparcialhacerrrr\modeloparcial\funciones.h
+
+1529519265 source:c:\users\teddy\desktop\modelo parciallll\modeloparcialhacerrrr\modeloparcial\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+	"funciones.h"
+
+1529360282 source:c:\users\alumno\desktop\depurar terminado por mi\modeloparcialhacerrrr\modeloparcial\arraylist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+
+1496883878 c:\users\alumno\desktop\depurar terminado por mi\modeloparcialhacerrrr\modeloparcial\arraylist.h
+
+1529758954 source:c:\users\alumno\desktop\depurar terminado por mi\modeloparcialhacerrrr\modeloparcial\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+	"funciones.h"
+
+1529454968 c:\users\alumno\desktop\depurar terminado por mi\modeloparcialhacerrrr\modeloparcial\funciones.h
+
+1529758979 source:c:\users\alumno\desktop\depurar terminado por mi\modeloparcialhacerrrr\modeloparcial\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+	"ArrayList.h"
+
+1529360282 source:c:\users\alumno\desktop\practicapairprograming\practicapairprograming2\practicapairprograming2\arraylist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+
+1496883878 c:\users\alumno\desktop\practicapairprograming\practicapairprograming2\practicapairprograming2\arraylist.h
+
+1529767291 source:c:\users\alumno\desktop\practicapairprograming\practicapairprograming2\practicapairprograming2\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+	"funciones.h"
+
+1529761354 c:\users\alumno\desktop\practicapairprograming\practicapairprograming2\practicapairprograming2\funciones.h
+
+1529766629 source:c:\users\alumno\desktop\practicapairprograming\practicapairprograming2\practicapairprograming2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+	"ArrayList.h"
+
+1530034572 source:c:\users\herna\desktop\practicapairprograming2\practicapairprograming2\arraylist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+
+1496883878 c:\users\herna\desktop\practicapairprograming2\practicapairprograming2\arraylist.h
+
+1529972889 source:c:\users\herna\desktop\practicapairprograming2\practicapairprograming2\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+	"funciones.h"
+
+1529874247 c:\users\herna\desktop\practicapairprograming2\practicapairprograming2\funciones.h
+
+1530034178 source:c:\users\herna\desktop\practicapairprograming2\practicapairprograming2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+	"ArrayList.h"
+
+1530034572 source:c:\users\herna\desktop\practicapairprograming2\usar para parcial\arraylist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+
+1496883878 c:\users\herna\desktop\practicapairprograming2\usar para parcial\arraylist.h
+
+1529972889 source:c:\users\herna\desktop\practicapairprograming2\usar para parcial\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+	"funciones.h"
+
+1529874247 c:\users\herna\desktop\practicapairprograming2\usar para parcial\funciones.h
+
+1530034178 source:c:\users\herna\desktop\practicapairprograming2\usar para parcial\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+	"ArrayList.h"
+
